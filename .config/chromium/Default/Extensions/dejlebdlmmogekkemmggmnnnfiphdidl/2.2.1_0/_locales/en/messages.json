@@ -1,0 +1,467 @@
+{
+   "add_app": {
+      "message": "Add Application"
+   },
+   "add_site": {
+      "message": "Custom Site"
+   },
+   "all_sites": {
+      "message": "All"
+   },
+   "app": {
+      "message": "Applications"
+   },
+   "application": {
+      "message": "App"
+   },
+   "auto_change": {
+      "message": "Use this setting will automatically change wallpaper daily"
+   },
+   "auto_color": {
+      "message": "Automatic matching"
+   },
+   "backup_title": {
+      "message": "Backup and Recovery"
+   },
+   "backupandre": {
+      "message": "Backup and Recovery"
+   },
+   "backupfail": {
+      "message": "Backup failed"
+   },
+   "backward_desk": {
+      "message": "Backward"
+   },
+   "baike": {
+      "message": "Groups"
+   },
+   "baikelink": {
+      "message": "https://groups.google.com/grphp?hl=en"
+   },
+   "bookmark_manage": {
+      "message": "Bookmark Manager"
+   },
+   "both_alert": {
+      "message": "Site name and address can not be empty"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "change_icon": {
+      "message": "Change"
+   },
+   "choose_image": {
+      "message": "Select a picture"
+   },
+   "city_alert": {
+      "message": "Use automatic location or manually enter the city name.Be careful don't input wrong name, or it can't get the weather."
+   },
+   "clear": {
+      "message": "Empty"
+   },
+   "cloud_wallpaper": {
+      "message": "Cloud Wallpaper"
+   },
+   "color_button": {
+      "message": "Solid color wallpaper"
+   },
+   "color_title": {
+      "message": "Background Color:"
+   },
+   "cover": {
+      "message": "Will overwrite the current settings, whether to continue?"
+   },
+   "css_font": {
+      "message": "14px"
+   },
+   "css_zoom": {
+      "message": "0.85"
+   },
+   "dakai": {
+      "message": "Launch"
+   },
+   "default_city": {
+      "message": "Set the default city:"
+   },
+   "defaultwallpaper": {
+      "message": "Restore Default"
+   },
+   "delete_desk": {
+      "message": "Delete"
+   },
+   "div_alert": {
+      "message": "Unable to get the icon, make sure the network open or switch to manually select the icon"
+   },
+   "download_ico": {
+      "message": "Downloading icon..."
+   },
+   "downloading_wallpaper": {
+      "message": "Downloading wallpaper..."
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "edit_app_not": {
+      "message": "This type of application can not be edited"
+   },
+   "edit_back_color": {
+      "message": "Background-color:"
+   },
+   "edit_edit": {
+      "message": "Edit:"
+   },
+   "edit_finish": {
+      "message": "Done"
+   },
+   "edit_icon": {
+      "message": "Icon:"
+   },
+   "edit_loading": {
+      "message": "Loading icon ......If it can't be loaded for a long time, please use the manual selection icon"
+   },
+   "edit_match_color": {
+      "message": "Automatic match"
+   },
+   "edit_name": {
+      "message": "Name:"
+   },
+   "edit_next": {
+      "message": "Next"
+   },
+   "edit_ok": {
+      "message": "OK"
+   },
+   "edit_pre_color": {
+      "message": "Original background-color"
+   },
+   "edit_preicon": {
+      "message": "The original icon"
+   },
+   "edit_sd": {
+      "message": "Manually select"
+   },
+   "edit_sd_color": {
+      "message": "Manual pick"
+   },
+   "edit_site": {
+      "message": "Url:"
+   },
+   "edit_zd": {
+      "message": "Automatically obtain"
+   },
+   "email_su": {
+      "message": "E-mail (for contact you,Not necessary)"
+   },
+   "emp": {
+      "message": "Empty"
+   },
+   "extdesc": {
+      "message": "Custom newtab,add websites and applications,Automatically get web icons,a simple and stylish chrome Internet navigation,Speed Dial"
+   },
+   "extname": {
+      "message": "Mifish NewTab(speed dial,APP)"
+   },
+   "favicon_api": {
+      "message": "https://www.google.com/s2/favicons?domain="
+   },
+   "favorite": {
+      "message": "Favorite"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "feedback_pro": {
+      "message": "Feedback problems:"
+   },
+   "feedback_su": {
+      "message": "Feedback can not be empty"
+   },
+   "feedback_thanks": {
+      "message": "Thank you for your feedback, we will promptly improve the product."
+   },
+   "finish": {
+      "message": "OK"
+   },
+   "forward_desk": {
+      "message": "Forward"
+   },
+   "fromlocal": {
+      "message": "Recovery from a file"
+   },
+   "getting_wallpaper": {
+      "message": "Getting Wallpaper"
+   },
+   "getweather": {
+      "message": "Getting weather\u2026\u2026"
+   },
+   "icon_opacity": {
+      "message": "Opacity of icons"
+   },
+   "if_bookmark": {
+      "message": "Show bookmarks bar"
+   },
+   "if_enable": {
+      "message": "Application is disabled, whether enabled this application?"
+   },
+   "if_history": {
+      "message": "Enable feature of Last Visit"
+   },
+   "image": {
+      "message": "Picasa"
+   },
+   "imagelink": {
+      "message": "http://picasa.google.com"
+   },
+   "jijian": {
+      "message": "Minimalist mode"
+   },
+   "jinyong": {
+      "message": "Disable"
+   },
+   "limit_alert": {
+      "message": "Limit is reached, let's streamline it"
+   },
+   "localwallpaper": {
+      "message": "Please select a picture from your computer to do Wallpaper:"
+   },
+   "locate": {
+      "message": "Locating\u2026\u2026"
+   },
+   "locatefailed": {
+      "message": "Locate failed"
+   },
+   "manage_ext": {
+      "message": "Extension Manager"
+   },
+   "manage_his": {
+      "message": "History Manager"
+   },
+   "map": {
+      "message": "Map"
+   },
+   "maplink": {
+      "message": "https://www.google.com/maps/"
+   },
+   "music": {
+      "message": "Gmail"
+   },
+   "musiclink": {
+      "message": "https://mail.google.com"
+   },
+   "name_alert": {
+      "message": "Site name can not be empty"
+   },
+   "networkerror": {
+      "message": "Network Error"
+   },
+   "networkerror2": {
+      "message": "Network error, please use manual selection icon"
+   },
+   "news": {
+      "message": "News"
+   },
+   "newslink": {
+      "message": "http://news.google.com/nwshp?hl=en"
+   },
+   "no_app1": {
+      "message": "You do not have install any application (unlike extension), would you like to go"
+   },
+   "no_app2": {
+      "message": "&nbsp;Chrome app store&nbsp;"
+   },
+   "no_app3": {
+      "message": "download some?"
+   },
+   "normal": {
+      "message": "Normal mode"
+   },
+   "ok_button": {
+      "message": "OK"
+   },
+   "pic_from": {
+      "message": "Picture from the"
+   },
+   "pop_site": {
+      "message": "Popular Sites"
+   },
+   "popular": {
+      "message": "Home"
+   },
+   "product": {
+      "message": "Generate backup file"
+   },
+   "qiyong": {
+      "message": "Enable"
+   },
+   "readd": {
+      "message": "Application is disabled, please enabled it then re-add this application"
+   },
+   "recently_visit": {
+      "message": "Last Visit"
+   },
+   "recoverfail": {
+      "message": "Recovery failed"
+   },
+   "recovery_success": {
+      "message": "Recovery Success"
+   },
+   "recoverying": {
+      "message": "Recovering..."
+   },
+   "rename_desk": {
+      "message": "Rename"
+   },
+   "search_image": {
+      "message": "Images"
+   },
+   "search_map": {
+      "message": "Maps"
+   },
+   "search_music": {
+      "message": "Blogs"
+   },
+   "search_news": {
+      "message": "News"
+   },
+   "search_video": {
+      "message": "Videos"
+   },
+   "search_web": {
+      "message": "Web"
+   },
+   "select1": {
+      "message": "Automatically obtain"
+   },
+   "select2": {
+      "message": "Manually select"
+   },
+   "select_icon": {
+      "message": "Select Icons"
+   },
+   "select_title": {
+      "message": "Icons:"
+   },
+   "setting": {
+      "message": "Setting"
+   },
+   "setwallpaper": {
+      "message": "Set as wallpaper"
+   },
+   "shopping": {
+      "message": "Favorite"
+   },
+   "shuoming1": {
+      "message": "Dear users, Thank you for using Mifish NewTab, as you can see, there are two websites can not be deleted, this is our promotional links, through which we can get some benefits. We are not for-profit organization, but we need to bear some of the cost of the server, so there will be a link these two can not be deleted. Extra revenue for the public good will. If you do not want to subsidize us, please ignore this two links."
+   },
+   "shuoming2": {
+      "message": "Thanks again for your use, Mifish Team."
+   },
+   "sitename": {
+      "message": "Name:"
+   },
+   "siteurl": {
+      "message": "Website:"
+   },
+   "submit": {
+      "message": "Submit"
+   },
+   "theicons": {
+      "message": "url(img/google_icons.png)"
+   },
+   "themarginleft": {
+      "message": "26px"
+   },
+   "thetop": {
+      "message": "none"
+   },
+   "theweamargintop": {
+      "message": "4px"
+   },
+   "thezoom": {
+      "message": "0.7"
+   },
+   "tieba": {
+      "message": "Hangouts"
+   },
+   "tiebalink": {
+      "message": "https://www.google.com/hangouts/"
+   },
+   "title": {
+      "message": "Mifish NewTab "
+   },
+   "tolocal": {
+      "message": "Backup to a local:"
+   },
+   "top": {
+      "message": ""
+   },
+   "toplink": {
+      "message": ""
+   },
+   "tuijian": {
+      "message": "Popular"
+   },
+   "url_alert": {
+      "message": "Web site address can not be empty"
+   },
+   "video": {
+      "message": "Youtube"
+   },
+   "videolink": {
+      "message": "http://www.youtube.com/"
+   },
+   "waiting_color": {
+      "message": "matching background color ......(Press ESC to cancel)"
+   },
+   "waiting_img": {
+      "message": "Loading icon ......If it can't be loaded for a long time, please use the manual selection icon\u003Cbr /\u003E\u003Cbr /\u003E\u003Cbr /\u003E(Press ESC to cancel)"
+   },
+   "wallpaper_button": {
+      "message": "Wallpaper"
+   },
+   "wallpaper_color": {
+      "message": "Pure Color"
+   },
+   "wallpaper_default": {
+      "message": "Default"
+   },
+   "wallpaper_every": {
+      "message": "A picture a day"
+   },
+   "wallpaper_image": {
+      "message": "Wallpaper"
+   },
+   "wallpaper_local": {
+      "message": "Local picture"
+   },
+   "wea_ok": {
+      "message": "OK"
+   },
+   "wenku": {
+      "message": ""
+   },
+   "wenkulink": {
+      "message": ""
+   },
+   "where_app": {
+      "message": "Launch app in new tab"
+   },
+   "where_bookmark": {
+      "message": "Open bookmarks in new tab"
+   },
+   "where_search": {
+      "message": "Search in new tab"
+   },
+   "where_site": {
+      "message": "Open site in new tab"
+   },
+   "xiezai": {
+      "message": "Unistall"
+   },
+   "zhidao": {
+      "message": "Blogger"
+   },
+   "zhidaolink": {
+      "message": "https://www.blogger.com/start?hl=en"
+   }
+}

@@ -1,0 +1,7 @@
+set hlsearch
+syntax on
+set cursorline
+set number
+colorscheme default
+set incsearch
+

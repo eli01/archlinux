@@ -1,0 +1,28 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "background": {
+      "page": "index.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' ; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extdesc__",
+   "icons": {
+      "128": "img/ico128.png",
+      "16": "img/ico16.png",
+      "48": "img/ico48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCB1lt4NwhP46djutv9VOo3kWGr64VpwYOP/d3VJ+PjMmnrYHh3+Q5EvRxrnOLybzt4wgrr5g/9vc8r1BmZKa8kq25IKmlrw9Nfkpos06RCmsOtfKe8bv2feQelpsCtyOBb772QVc2QeW5uZrICWwmv1nuyo0LNC7tvRVDqexcO6QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extname__",
+   "offline_enabled": true,
+   "permissions": [ "management", "topSites", "bookmarks", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.1"
+}

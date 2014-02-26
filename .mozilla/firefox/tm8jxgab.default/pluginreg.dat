@@ -1,0 +1,90 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.16:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+libgnome-shell-browser-plugin.so:$
+/usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so:$
+:$
+1389904511000:0:0:$
+This plugin provides integration with Gnome Shell for live extension enabling and disabling. It can be used only by extensions.gnome.org:$
+Gnome Shell Integration:$
+1
+0:application/x-gnome-shell-integration:Gnome Shell Integration Dummy Content-Type::$
+libtotem-cone-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-cone-plugin.so:$
+:$
+1380532803000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+VLC Multimedia Plugin (compatible Videos 3.10.1):$
+23
+0:application/x-vlc-plugin:VLC Multimedia Plugin::$
+1:application/vlc:VLC Multimedia Plugin::$
+2:video/x-google-vlc-plugin:VLC Multimedia Plugin::$
+3:application/x-ogg:Ogg 多媒体文件:ogg:$
+4:application/ogg:Ogg 多媒体文件:ogg:$
+5:audio/ogg:Ogg 音频:oga:$
+6:audio/x-ogg:Ogg 音频:ogg:$
+7:audio/x-vorbis+ogg:Ogg Vorbis 音频:ogg:$
+8:video/ogg:Ogg 视频:ogv:$
+9:video/x-ogg:Ogg 视频:ogg:$
+10:video/x-theora+ogg:Ogg Theora 视频:ogg:$
+11:application/annodex:Annodex 交换格式:anx:$
+12:audio/annodex:Annodex 音频:axa:$
+13:video/annodex:Annodex 视频:axv:$
+14:video/mpeg:MPEG 视频:mpg, mpeg, mpe:$
+15:audio/wav:WAV 音频:wav:$
+16:audio/x-wav:WAV 音频:wav:$
+17:audio/mpeg:MP3 音频:mp3:$
+18:application/x-nsv-vp3-mp3:Nullsoft 视频:nsv:$
+19:video/flv:Flash 影片:flv:$
+20:video/webm:WebM 视频:webm:$
+21:application/x-totem-plugin:Videos multimedia plugin::$
+22:audio/midi:MIDI 音频:mid, midi:$
+libtotem-mully-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-mully-plugin.so:$
+:$
+1380532803000:0:0:$
+DivX Web Player version 1.4.0.233:$
+DivX® Web Player:$
+1
+0:video/divx:AVI 视频:divx:$
+libtotem-narrowspace-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-narrowspace-plugin.so:$
+:$
+1380532803000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+QuickTime Plug-in 7.6.6:$
+6
+0:video/quicktime:QuickTime 视频:mov:$
+1:video/mp4:MPEG-4 视频:mp4:$
+2:image/x-macpaint:MacPaint 位图:pntg:$
+3:image/x-quicktime:Macintosh Quickdraw/PICT 绘图:pict, pict1, pict2:$
+4:video/x-m4v:MPEG-4 视频:m4v:$
+5:application/vnd.apple.mpegurl:HTTP 直播流播放列表:m3u8:$
+libtotem-gmp-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-gmp-plugin.so:$
+:$
+1380532803000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+Windows Media Player Plug-in 10 (compatible; Videos):$
+13
+0:application/x-mplayer2:AVI 视频:avi, wma, wmv:$
+1:video/x-ms-asf-plugin:ASF 视频:asf, wmv:$
+2:video/x-msvideo:AVI 视频:asf, wmv:$
+3:video/x-ms-asf:ASF 视频:asf:$
+4:video/x-ms-wmv:Windows Media 视频:wmv:$
+5:video/x-wmv:Windows Media 视频:wmv:$
+6:video/x-ms-wvx:Windows Media 视频:wmv:$
+7:video/x-ms-wm:Windows Media 视频:wmv:$
+8:video/x-ms-wmp:Windows Media 视频:wmv:$
+9:application/x-ms-wms:Windows Media 视频:wms:$
+10:application/x-ms-wmp:Windows Media 视频:wmp:$
+11:application/asx:Microsoft ASX 播放列表:asx:$
+12:audio/x-ms-wma:Windows Media 音频:wma:$
+
+[INVALID]
+/usr/lib/mozilla/plugins/libtotem-vegas-plugin.so:$
+1380532803000:$

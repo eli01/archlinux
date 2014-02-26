@@ -1,0 +1,7 @@
+[core]
+	editor = nano -w
+[user]
+	name = eli01
+	email = eli01linux@gmail.com
+[color]
+	ui = true

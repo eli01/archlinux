@@ -1,0 +1,467 @@
+{
+   "add_app": {
+      "message": "\u6DFB\u52A0\u5E94\u7528"
+   },
+   "add_site": {
+      "message": "\u81EA\u5B9A\u4E49"
+   },
+   "all_sites": {
+      "message": "\u5168\u90E8\u7F51\u7AD9"
+   },
+   "app": {
+      "message": "\u5E94\u7528\u7A0B\u5E8F"
+   },
+   "application": {
+      "message": "\u5E94\u7528"
+   },
+   "auto_change": {
+      "message": "\u4F7F\u7528\u6B64\u8BBE\u7F6E\u5C06\u6BCF\u65E5\u81EA\u52A8\u66F4\u6362\u58C1\u7EB8"
+   },
+   "auto_color": {
+      "message": "\u81EA\u52A8\u5339\u914D"
+   },
+   "backup_title": {
+      "message": "\u5907\u4EFD\u4E0E\u6062\u590D"
+   },
+   "backupandre": {
+      "message": "\u5907\u4EFD\u4E0E\u6062\u590D"
+   },
+   "backupfail": {
+      "message": "\u5907\u4EFD\u5931\u8D25"
+   },
+   "backward_desk": {
+      "message": "\u5411\u540E\u79FB\u52A8"
+   },
+   "baike": {
+      "message": "\u767E\u79D1"
+   },
+   "baikelink": {
+      "message": "http://baike.baidu.com/"
+   },
+   "bookmark_manage": {
+      "message": "\u7BA1\u7406"
+   },
+   "both_alert": {
+      "message": "\u7F51\u7AD9\u540D\u79F0\u548C\u5730\u5740\u4E0D\u80FD\u4E3A\u7A7A\u54E6"
+   },
+   "cancel": {
+      "message": "\u53D6\u6D88"
+   },
+   "change_icon": {
+      "message": "\u66F4\u6362"
+   },
+   "choose_image": {
+      "message": "\u9009\u62E9\u56FE\u7247"
+   },
+   "city_alert": {
+      "message": "\u4F7F\u7528\u81EA\u52A8\u5B9A\u4F4D\u6216\u8005\u624B\u52A8\u8F93\u5165\u57CE\u5E02\u540D\uFF0C\u6CE8\u610F\u4E0D\u8981\u8F93\u5165\u9519\u8BEF\u7684\u540D\u79F0\uFF0C\u5426\u5219\u65E0\u6CD5\u83B7\u53D6\u5230\u5929\u6C14\u3002"
+   },
+   "clear": {
+      "message": "\u6E05\u7A7A"
+   },
+   "cloud_wallpaper": {
+      "message": "\u4E91\u58C1\u7EB8"
+   },
+   "color_button": {
+      "message": "\u7EAF\u8272\u80CC\u666F"
+   },
+   "color_title": {
+      "message": "\u80CC\u666F\u989C\u8272:"
+   },
+   "cover": {
+      "message": "\u5C06\u4F1A\u8986\u76D6\u5F53\u524D\u8BBE\u7F6E\uFF0C\u662F\u5426\u7EE7\u7EED\uFF1F"
+   },
+   "css_font": {
+      "message": "15px"
+   },
+   "css_zoom": {
+      "message": "1"
+   },
+   "dakai": {
+      "message": "\u6253\u5F00"
+   },
+   "default_city": {
+      "message": "\u8BBE\u7F6E\u9ED8\u8BA4\u57CE\u5E02:"
+   },
+   "defaultwallpaper": {
+      "message": "\u6062\u590D\u9ED8\u8BA4"
+   },
+   "delete_desk": {
+      "message": "\u5220\u9664"
+   },
+   "div_alert": {
+      "message": "\u65E0\u6CD5\u83B7\u53D6\u56FE\u6807\uFF0C\u8BF7\u786E\u4FDD\u7F51\u7EDC\u901A\u7545\u6216\u6539\u7528\u624B\u52A8\u9009\u53D6\u56FE\u6807"
+   },
+   "download_ico": {
+      "message": "\u6B63\u5728\u4E0B\u8F7D\u56FE\u6807......"
+   },
+   "downloading_wallpaper": {
+      "message": "\u6B63\u5728\u4E0B\u8F7D\u58C1\u7EB8......"
+   },
+   "edit": {
+      "message": "\u7F16\u8F91"
+   },
+   "edit_app_not": {
+      "message": "\u6B64\u5E94\u7528\u7C7B\u578B\u65E0\u6CD5\u7F16\u8F91"
+   },
+   "edit_back_color": {
+      "message": "\u80CC\u666F\u989C\u8272\uFF1A"
+   },
+   "edit_edit": {
+      "message": "\u7F16\u8F91\uFF1A"
+   },
+   "edit_finish": {
+      "message": "\u5B8C\u6210"
+   },
+   "edit_icon": {
+      "message": "\u56FE\u6807\uFF1A"
+   },
+   "edit_loading": {
+      "message": "\u6B63\u5728\u83B7\u53D6\u56FE\u6807\uFF0C\u5982\u679C\u957F\u65F6\u95F4\u83B7\u53D6\u4E0D\u5230\uFF0C\u8BF7\u5207\u6362\u5230\u624B\u52A8\u9009\u53D6\u56FE\u6807"
+   },
+   "edit_match_color": {
+      "message": "\u81EA\u52A8\u5339\u914D"
+   },
+   "edit_name": {
+      "message": "\u540D\u79F0\uFF1A"
+   },
+   "edit_next": {
+      "message": "\u4E0B\u4E00\u9879"
+   },
+   "edit_ok": {
+      "message": "\u786E\u5B9A"
+   },
+   "edit_pre_color": {
+      "message": "\u539F\u80CC\u666F\u8272"
+   },
+   "edit_preicon": {
+      "message": "\u539F\u56FE\u6807"
+   },
+   "edit_sd": {
+      "message": "\u624B\u52A8\u9009\u53D6"
+   },
+   "edit_sd_color": {
+      "message": "\u624B\u52A8\u9009\u53D6"
+   },
+   "edit_site": {
+      "message": "\u7F51\u5740\uFF1A"
+   },
+   "edit_zd": {
+      "message": "\u81EA\u52A8\u83B7\u53D6"
+   },
+   "email_su": {
+      "message": "\u90AE\u7BB1(\u65B9\u4FBF\u6211\u4EEC\u8054\u7CFB\u60A8\uFF0C\u53EF\u4E0D\u586B)"
+   },
+   "emp": {
+      "message": "\u7A7A"
+   },
+   "extdesc": {
+      "message": "\u81EA\u7531\u5B9A\u5236chrome\u65B0\u6807\u7B7E\u9875\uFF0C\u968F\u610F\u6DFB\u52A0\u7F51\u7AD9\u4E0E\u5E94\u7528\uFF0C\u53EF\u81EA\u52A8\u83B7\u53D6\u7F51\u7AD9\u56FE\u6807\uFF0Cmetro\u98CE\u683C\uFF0C\u7B80\u7EA6\u65F6\u5C1A\u7684chrome\u4E0A\u7F51\u5BFC\u822A"
+   },
+   "extname": {
+      "message": "\u7C73\u9C7C\u6781\u901F\u65B0\u6807\u7B7E\u9875\u5BFC\u822A(APP)"
+   },
+   "favicon_api": {
+      "message": "https://www.google.com/s2/favicons?domain="
+   },
+   "favorite": {
+      "message": "\u6211\u7684\u6536\u85CF"
+   },
+   "feedback": {
+      "message": "\u53CD\u9988"
+   },
+   "feedback_pro": {
+      "message": "\u53CD\u9988\u95EE\u9898:"
+   },
+   "feedback_su": {
+      "message": "\u53CD\u9988\u5185\u5BB9\u4E0D\u80FD\u4E3A\u7A7A\u54E6"
+   },
+   "feedback_thanks": {
+      "message": "\u611F\u8C22\u60A8\u7684\u53CD\u9988,\u6211\u4EEC\u4F1A\u53CA\u65F6\u6539\u8FDB\u4EA7\u54C1\u3002"
+   },
+   "finish": {
+      "message": "\u5B8C\u6210"
+   },
+   "forward_desk": {
+      "message": "\u5411\u524D\u79FB\u52A8"
+   },
+   "fromlocal": {
+      "message": "\u4ECE\u6587\u4EF6\u4E2D\u6062\u590D"
+   },
+   "getting_wallpaper": {
+      "message": "\u83B7\u53D6\u58C1\u7EB8\u2026\u2026"
+   },
+   "getweather": {
+      "message": "\u6B63\u5728\u83B7\u53D6\u5929\u6C14\u2026\u2026"
+   },
+   "icon_opacity": {
+      "message": "\u56FE\u6807\u4E0D\u900F\u660E\u5EA6"
+   },
+   "if_bookmark": {
+      "message": "\u663E\u793A\u4E66\u7B7E\u680F"
+   },
+   "if_enable": {
+      "message": "\u5E94\u7528\u88AB\u7981\u7528\uFF0C\u662F\u5426\u5148\u542F\u7528\u6B64\u5E94\u7528\uFF1F"
+   },
+   "if_history": {
+      "message": "\u542F\u7528\u6700\u8FD1\u8BBF\u95EE\u529F\u80FD"
+   },
+   "image": {
+      "message": "\u56FE\u7247"
+   },
+   "imagelink": {
+      "message": "http://image.baidu.com/"
+   },
+   "jijian": {
+      "message": "\u6781\u7B80\u6A21\u5F0F"
+   },
+   "jinyong": {
+      "message": "\u7981\u7528"
+   },
+   "limit_alert": {
+      "message": "\u8FBE\u5230\u4E0A\u9650\u4E86\uFF0C\u7CBE\u7B80\u4E00\u4E0B\u5427"
+   },
+   "localwallpaper": {
+      "message": "\u8BF7\u4ECE\u7535\u8111\u4E2D\u9009\u62E9\u56FE\u7247\u505A\u58C1\u7EB8:"
+   },
+   "locate": {
+      "message": "\u5B9A\u4F4D\u4E2D\u2026\u2026"
+   },
+   "locatefailed": {
+      "message": "\u5B9A\u4F4D\u5931\u8D25"
+   },
+   "manage_ext": {
+      "message": "\u6269\u5C55\u7BA1\u7406"
+   },
+   "manage_his": {
+      "message": "\u7BA1\u7406\u5386\u53F2\u8BB0\u5F55"
+   },
+   "map": {
+      "message": "\u5730\u56FE"
+   },
+   "maplink": {
+      "message": "http://map.baidu.com/"
+   },
+   "music": {
+      "message": "\u97F3\u4E50"
+   },
+   "musiclink": {
+      "message": "http://music.baidu.com/"
+   },
+   "name_alert": {
+      "message": "\u7F51\u7AD9\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A\u54E6"
+   },
+   "networkerror": {
+      "message": "\u7F51\u7EDC\u9519\u8BEF"
+   },
+   "networkerror2": {
+      "message": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u4F7F\u7528\u624B\u52A8\u9009\u53D6\u56FE\u6807"
+   },
+   "news": {
+      "message": "\u65B0\u95FB"
+   },
+   "newslink": {
+      "message": "http://news.baidu.com/"
+   },
+   "no_app1": {
+      "message": "\u4F60\u6CA1\u6709\u5B89\u88C5\u4EFB\u4F55\u5E94\u7528(\u4E0D\u540C\u4E8E\u6269\u5C55)\uFF0C\u662F\u5426\u73B0\u5728\u53BB"
+   },
+   "no_app2": {
+      "message": "Chrome\u5E94\u7528\u5546\u5E97"
+   },
+   "no_app3": {
+      "message": "\u4E0B\u8F7D\u4E00\u4E9B\uFF1F"
+   },
+   "normal": {
+      "message": "\u6B63\u5E38\u6A21\u5F0F"
+   },
+   "ok_button": {
+      "message": "\u786E\u5B9A"
+   },
+   "pic_from": {
+      "message": "\u56FE\u7247\u6765\u81EA\u4E8E"
+   },
+   "pop_site": {
+      "message": "\u5E38\u7528\u7F51\u7AD9"
+   },
+   "popular": {
+      "message": "\u5E38\u7528\u7F51\u7AD9"
+   },
+   "product": {
+      "message": "\u751F\u6210\u5907\u4EFD\u6587\u4EF6"
+   },
+   "qiyong": {
+      "message": "\u542F\u7528"
+   },
+   "readd": {
+      "message": "\u5E94\u7528\u88AB\u7981\u7528\uFF0C\u8BF7\u542F\u7528\u540E\u91CD\u65B0\u6DFB\u52A0\u6B64\u5E94\u7528"
+   },
+   "recently_visit": {
+      "message": "\u6700\u8FD1\u8BBF\u95EE"
+   },
+   "recoverfail": {
+      "message": "\u6062\u590D\u5931\u8D25"
+   },
+   "recovery_success": {
+      "message": "\u6062\u590D\u6210\u529F"
+   },
+   "recoverying": {
+      "message": "\u6B63\u5728\u6062\u590D..."
+   },
+   "rename_desk": {
+      "message": "\u91CD\u547D\u540D"
+   },
+   "search_image": {
+      "message": "\u56FE\u7247"
+   },
+   "search_map": {
+      "message": "\u5730\u56FE"
+   },
+   "search_music": {
+      "message": "\u97F3\u4E50"
+   },
+   "search_news": {
+      "message": "\u65B0\u95FB"
+   },
+   "search_video": {
+      "message": "\u89C6\u9891"
+   },
+   "search_web": {
+      "message": "\u7F51\u9875"
+   },
+   "select1": {
+      "message": "\u81EA\u52A8\u83B7\u53D6"
+   },
+   "select2": {
+      "message": "\u624B\u52A8\u9009\u53D6"
+   },
+   "select_icon": {
+      "message": "\u9009\u62E9\u56FE\u6807"
+   },
+   "select_title": {
+      "message": "\u56FE\u6807:"
+   },
+   "setting": {
+      "message": "\u8BBE\u7F6E"
+   },
+   "setwallpaper": {
+      "message": "\u8BBE\u4E3A\u58C1\u7EB8"
+   },
+   "shopping": {
+      "message": "\u8D2D\u7269"
+   },
+   "shuoming1": {
+      "message": "\u5C0A\u656C\u7684\u7528\u6237\u60A8\u597D\uFF0C\u611F\u8C22\u60A8\u4F7F\u7528\u7C73\u9C7C\u65B0\u6807\u7B7E\u9875\uFF0C\u5982\u60A8\u6240\u89C1\uFF0C\u6709\u4E24\u4E2A\u7F51\u5740\u65E0\u6CD5\u5220\u9664\uFF0C\u8FD9\u662F\u6211\u4EEC\u7684\u63A8\u5E7F\u94FE\u63A5\uFF0C\u901A\u8FC7\u5B83\u4EEC\u6211\u4EEC\u53EF\u4EE5\u83B7\u5F97\u4E00\u5B9A\u7684\u6536\u76CA\u3002\u6211\u4EEC\u5E76\u4E0D\u662F\u8425\u5229\u7EC4\u7EC7\uFF0C\u4F46\u662F\u6211\u4EEC\u9700\u8981\u627F\u62C5\u4E00\u4E9B\u670D\u52A1\u5668\u8D39\u7528\uFF0C\u6240\u4EE5\u4F1A\u6709\u8FD9\u4E24\u4E2A\u65E0\u6CD5\u5220\u9664\u7684\u94FE\u63A5\u3002\u591A\u4F59\u7684\u6536\u5165\u6211\u4EEC\u4F1A\u7528\u4E8E\u516C\u76CA\u4E8B\u4E1A\u3002\u5982\u679C\u60A8\u4E0D\u60F3\u8D44\u52A9\u6211\u4EEC\uFF0C\u8BF7\u5FFD\u7565\u8FD9\u4E24\u4E2A\u7F51\u5740\u5373\u53EF\u3002"
+   },
+   "shuoming2": {
+      "message": "\u518D\u6B21\u611F\u8C22\u60A8\u7684\u4F7F\u7528\uFF0C\u7C73\u9C7C\u5C0F\u7EC4\u656C\u4E0A\u3002"
+   },
+   "sitename": {
+      "message": "\u540D\u79F0:"
+   },
+   "siteurl": {
+      "message": "\u7F51\u5740:"
+   },
+   "submit": {
+      "message": "\u63D0\u4EA4"
+   },
+   "theicons": {
+      "message": "url(img/baidu_icons.png)"
+   },
+   "themarginleft": {
+      "message": "10px"
+   },
+   "thetop": {
+      "message": "block"
+   },
+   "theweamargintop": {
+      "message": "2px"
+   },
+   "thezoom": {
+      "message": "0.75"
+   },
+   "tieba": {
+      "message": "\u8D34\u5427"
+   },
+   "tiebalink": {
+      "message": "http://tieba.baidu.com/"
+   },
+   "title": {
+      "message": "\u7C73\u9C7C\u65B0\u6807\u7B7E\u9875"
+   },
+   "tolocal": {
+      "message": "\u5907\u4EFD\u5230\u672C\u5730:"
+   },
+   "top": {
+      "message": "\u98CE\u4E91\u699C"
+   },
+   "toplink": {
+      "message": "http://top.baidu.com/"
+   },
+   "tuijian": {
+      "message": "\u63A8\u8350"
+   },
+   "url_alert": {
+      "message": "\u7F51\u7AD9\u5730\u5740\u4E0D\u80FD\u4E3A\u7A7A\u54E6"
+   },
+   "video": {
+      "message": "\u89C6\u9891"
+   },
+   "videolink": {
+      "message": "http://v.baidu.com/"
+   },
+   "waiting_color": {
+      "message": "\u6B63\u5728\u5339\u914D\u80CC\u666F\u989C\u8272\u2026\u2026(\u6309ESC\u952E\u53D6\u6D88)"
+   },
+   "waiting_img": {
+      "message": "\u6B63\u5728\u52A0\u8F7D\u56FE\u6807\u2026\u2026\u5982\u679C\u957F\u65F6\u95F4\u65E0\u6CD5\u52A0\u8F7D\uFF0C\u8BF7\u4F7F\u7528\u624B\u52A8\u9009\u62E9\u56FE\u6807\u003Cbr /\u003E(\u6309ESC\u952E\u53D6\u6D88)"
+   },
+   "wallpaper_button": {
+      "message": "\u58C1\u7EB8"
+   },
+   "wallpaper_color": {
+      "message": "\u7EAF\u8272"
+   },
+   "wallpaper_default": {
+      "message": "\u9ED8\u8BA4"
+   },
+   "wallpaper_every": {
+      "message": "\u6BCF\u65E5\u4E00\u56FE"
+   },
+   "wallpaper_image": {
+      "message": "\u56FE\u7247\u58C1\u7EB8"
+   },
+   "wallpaper_local": {
+      "message": "\u672C\u5730\u56FE\u7247"
+   },
+   "wea_ok": {
+      "message": "\u786E\u5B9A"
+   },
+   "wenku": {
+      "message": "\u6587\u5E93"
+   },
+   "wenkulink": {
+      "message": "http://wenku.baidu.com/"
+   },
+   "where_app": {
+      "message": "\u65B0\u6807\u7B7E\u9875\u4E2D\u542F\u52A8\u5E94\u7528"
+   },
+   "where_bookmark": {
+      "message": "\u65B0\u6807\u7B7E\u9875\u4E2D\u6253\u5F00\u4E66\u7B7E"
+   },
+   "where_search": {
+      "message": "\u65B0\u6807\u7B7E\u9875\u4E2D\u8FDB\u884C\u641C\u7D22"
+   },
+   "where_site": {
+      "message": "\u65B0\u6807\u7B7E\u9875\u4E2D\u6253\u5F00\u7F51\u7AD9"
+   },
+   "xiezai": {
+      "message": "\u5378\u8F7D"
+   },
+   "zhidao": {
+      "message": "\u77E5\u9053"
+   },
+   "zhidaolink": {
+      "message": "http://zhidao.baidu.com/"
+   }
+}

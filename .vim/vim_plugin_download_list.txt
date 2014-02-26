@@ -1,0 +1,7 @@
+http://www.vim.org/scripts/download_script.php?src_id=19574
+http://www.vim.org/scripts/download_script.php?src_id=754
+http://www.vim.org/scripts/download_script.php?src_id=3640
+http://www.vim.org/scripts/download_script.php?src_id=7218
+http://www.vim.org/scripts/download_script.php?src_id=19966
+http://www.vim.org/scripts/download_script.php?src_id=4700
+http://www.vim.org/scripts/download_script.php?src_id=18075

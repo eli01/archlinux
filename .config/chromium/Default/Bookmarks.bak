@@ -1,0 +1,116 @@
+{
+   "checksum": "790a3d00b1766784d29985080dd84626",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13036566252038179",
+               "id": "5",
+               "name": "QQ",
+               "type": "url",
+               "url": "http://w.qq.com/"
+            }, {
+               "date_added": "13036566382013421",
+               "id": "6",
+               "name": "\u5B98\u65B9\u7F51\u9875\u7248\u98DE\u4FE1\u2014\u2014\u5728\u7F51\u9875\u4E0A\u4E0E\u98DE\u4FE1\u597D\u53CB\u804A\u5929\u3001\u514D\u8D39\u53D1\u77ED\u4FE1",
+               "type": "url",
+               "url": "https://webim.feixin.10086.cn/main.aspx"
+            }, {
+               "date_added": "13036566462730990",
+               "id": "7",
+               "name": "Outlook - eli01@live.cn",
+               "type": "url",
+               "url": "https://dub114.mail.live.com/default.aspx?id=64855"
+            }, {
+               "date_added": "13036566575298203",
+               "id": "8",
+               "name": "QQ\u90AE\u7BB1",
+               "type": "url",
+               "url": "http://mail.qq.com/cgi-bin/frame_html?sid=ileDi_VD_vAJuwtZ&target=today"
+            }, {
+               "date_added": "13036566723443553",
+               "id": "9",
+               "name": "\u4E3A\u77E5\u7B14\u8BB0 \u767B\u5F55",
+               "type": "url",
+               "url": "https://note.wiz.cn/login"
+            }, {
+               "date_added": "13036690359648102",
+               "id": "10",
+               "name": "\u66F4\u597D\u7684\u7BA1\u7406Vim\u63D2\u4EF6 vim-addon-manager | Syndim's Blog",
+               "type": "url",
+               "url": "http://blog.syndim.org/2011/07/06/vim-addon-manager/"
+            }, {
+               "date_added": "13036844956429059",
+               "id": "11",
+               "name": "\u767E\u5EA6\u5728\u7EBF\u7FFB\u8BD1",
+               "type": "url",
+               "url": "http://fanyi.baidu.com/#auto/zh/"
+            } ],
+            "date_added": "13036566275166130",
+            "date_modified": "13036930322087075",
+            "id": "4",
+            "name": "\u65E5\u5E38",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13036862901494185",
+               "id": "13",
+               "meta_info": "{\"sync\":{\"transaction_version\":\"2\"}}",
+               "name": "Pro Git\uFF08\u4E2D\u6587\u7248\uFF09",
+               "type": "url",
+               "url": "http://git.oschina.net/progit/index.html"
+            }, {
+               "date_added": "13036862941421551",
+               "id": "14",
+               "meta_info": "{\"sync\":{\"transaction_version\":\"2\"}}",
+               "name": "node.js",
+               "type": "url",
+               "url": "http://nodejs.org/"
+            }, {
+               "date_added": "13036863020045824",
+               "id": "15",
+               "meta_info": "{\"sync\":{\"transaction_version\":\"2\"}}",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13037270373034209",
+               "id": "16",
+               "meta_info": "{\"sync\":{\"transaction_version\":\"3\"}}",
+               "name": "visual studio\u5165\u95E8",
+               "type": "url",
+               "url": "http://www.visualstudio.com/get-started/overview-of-get-started-tasks-vs#"
+            } ],
+            "date_added": "13036862922888551",
+            "date_modified": "13037270373034209",
+            "id": "12",
+            "meta_info": "{\"sync\":{\"transaction_version\":\"2\"}}",
+            "name": "\u5F00\u53D1",
+            "type": "folder"
+         } ],
+         "date_added": "13036930272737568",
+         "date_modified": "13036862922888551",
+         "id": "1",
+         "name": "\u4E66\u7B7E\u680F",
+         "type": "folder"
+      },
+      "meta_info": "{\"sync\":{\"transaction_version\":\"3\"}}",
+      "other": {
+         "children": [  ],
+         "date_added": "13036930272738432",
+         "date_modified": "0",
+         "id": "2",
+         "name": "\u5176\u4ED6\u4E66\u7B7E",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13036930272738437",
+         "date_modified": "0",
+         "id": "3",
+         "name": "\u79FB\u52A8\u8BBE\u5907\u4E66\u7B7E",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
